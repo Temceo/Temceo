@@ -1,4 +1,4 @@
-![]()
+![](https://github.com/Temceo/Temceo/blob/main/LinkedIn%20Cover%201584x396%20px.png)
 <h1>Hi 👋, I'm Martin</h1>
 <h3>I am passionate about learning and developing as a coder</h3>
 
