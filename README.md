@@ -11,3 +11,8 @@ Skills: **JavaScript, HTML, CSS, Node JS, React**
 <p align="left">
 <a href="https://linkedin.com/in/martin-mwaka-1a57846a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="martin-mwaka-1a57846a" height="30" width="40" /></a>
 </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=temceo&show_icons=true&locale=en&layout=compact" alt="temceo" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=temceo&show_icons=true&locale=en" alt="temceo" /></p>
+
