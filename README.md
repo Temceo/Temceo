@@ -1,6 +1,6 @@
 ![](https://github.com/Temceo/Temceo/blob/main/LinkedIn%20Cover%201584x396%20px.png)
 <h1>Hi 👋, I'm Martin</h1>
-<h3>I am passionate about building fundamental coding skills in order to become a better developer.  Visit my repositories to see projects I am currently working on </h3>
+<h3>I am passionate about building fundamental coding skills in order to become a better developer.  Visit my repositories to see projects I am currently working on. </h3>
 
 Skills: **JavaScript, HTML, CSS, Node JS, React, Ruby**
 
